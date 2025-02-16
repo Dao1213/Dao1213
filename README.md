@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hello friend! I'm [Dao] 👋
 
-- 🌱 I'm currently learning more about **[Circuit Analysis]**
+- 🌱 I'm currently learning more about **Circuit Analysis and Cyber Security**
 - 💻 I'm passionate about **coding, security, and embedded systems**
 - 🎵 Fun fact: I enjoy **swimming, running, and learning to play the piano** 🎹🏊‍♂️🏃‍♂️
 - 🔧 Technologies: Python, C++, Go, Java, RISC-V, Embedded Systems
