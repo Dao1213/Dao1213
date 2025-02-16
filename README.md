@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello friend! I'm [Dao] 👋
+# Hello friend! I'm Dao 👋
 
 - 🌱 I'm currently learning more about **Circuit Analysis and Cyber Security**
 - 💻 I'm passionate about **coding, security, and embedded systems**
@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 ---
 
